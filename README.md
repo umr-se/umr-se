@@ -32,7 +32,11 @@ I'm a **Backend Developer** with expertise in:
 
 ## 🚀 My GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umr-se&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umr-se&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umr-se&layout=compact&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=umr-se&theme=onedark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umr-se&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8f8f2&area=true&hide_border=true&custom_title=🔥%20My%20GitHub%20Activity%20Graph)
+
 
 ---
 
