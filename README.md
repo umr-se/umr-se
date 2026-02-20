@@ -28,12 +28,12 @@ I'm a **Backend Developer** with expertise in:
 ![API Testing](https://img.shields.io/badge/API%20Testing-00BFFF?style=for-the-badge&logo=postman&logoColor=white)
 ![Debugging](https://img.shields.io/badge/Debugging-FFD700?style=for-the-badge&logo=bugatti&logoColor=white)
 
----
+<!-----
 
 ## 🚀 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umr-se&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umr-se&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umr-se&layout=compact&theme=tokyonight)-->
 
 ---
 
