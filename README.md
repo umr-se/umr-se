@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Umer Saleem 🚀
 
-I'm a **Backend Developer** with expertise in:
+I'm a **Software Engineer** with expertise in:
 
 - 🐍 **Python** | 🧠 **ML & AI** | 🤖 **LLMs**
 - 🔍 **OCR & Web Scraping** | 📡 **Automation**
